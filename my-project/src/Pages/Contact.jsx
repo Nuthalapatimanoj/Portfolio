@@ -43,7 +43,7 @@ const Contact = () => {
                 alt=""
                 className="w-72 h-60 rounded object-cover mb-8 md:mb-0"
               />
-              <h3 className="text-lg mb-2">Let's talk</h3>
+              <h3 className="text-lg mb-2">Find Me in :</h3>
               <div className="flex space-x-4 my-2 md:my-0">
                 <a
                   href="https://www.linkedin.com/in/manojn30/"

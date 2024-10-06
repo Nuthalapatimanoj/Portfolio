@@ -13,7 +13,7 @@ const Experience = () => {
         <div className="flex flex-col gap-4">
           <h2 className="text-2xl font-bold">Intern Experience</h2>
         </div>
-        <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
+        <div className="mt-14 w-full h-[500px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="Full-Stack Developer Intern"
             subTitle="Provis Global - (07/2024 - Present)"
