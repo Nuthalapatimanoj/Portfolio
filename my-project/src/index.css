@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+
+    .resumeLi {
+    @apply w-full h-20 bg-white bg-opacity-25 text-xl text-red-300 flex justify-center cursor-pointer hover:bg-opacity-40 duration-300 items-center border-[1px] rounded-none;
+    }
+}
+
+.active {
+    color: white;
+    background-color: white;
+}
+.scrollbar-hide::-webkit-scrollbar{
+    display: none;
+}
