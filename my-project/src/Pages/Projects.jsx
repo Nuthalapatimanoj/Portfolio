@@ -23,7 +23,7 @@ const projects = [
     name: "Portfolio",
     technologies: "React JS",
     image: PortImage,
-    github: "https://github.com/Nuthalapatimanoj/Portfolio.git",
+    github: "https://github.com/Nuthalapatimanoj/.git",
   },
 ];
 
