@@ -59,11 +59,11 @@ const Contact = () => {
                 </a>
               </div>
               <p className="text-lg mb-1">
-                Phone: <span className="text-lightText">+91 94355*****</span>
+                Phone: <span className="text-lightText">+91 9177038307</span>
               </p>
               <p className="text-lg mb-1">
                 Email:{" "}
-                <span className="text-lightText">reactproject@gmail.com</span>
+                <span className="text-lightText">manojn8545@gmail.com</span>
               </p>
             </div>
 

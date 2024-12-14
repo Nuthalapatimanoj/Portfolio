@@ -16,13 +16,12 @@ const Experience = () => {
         <div className="mt-14 w-full h-[500px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="Full-Stack Developer Intern"
-            subTitle="Provis Global - (07/2024 - Present)"
+            subTitle="Apex Academy - (08/2024 - 10/2024)"
             result="Tiruttani"
             des="Internship that provides a hands-on experience in web pages design using reactJS and so on..."
           />
           <ResumeCard
-            title="Python Intern"
-            subTitle="Skillraace"
+            title="Mathwork Internship"
             result="AICTE- Online"
             des="Internship that provides a python development practices."
           />

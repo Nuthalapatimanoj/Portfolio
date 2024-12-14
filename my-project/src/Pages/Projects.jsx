@@ -2,24 +2,40 @@ import React from "react";
 import PortImage from "../assets/Portfolio.png";
 import StartupImage from "../assets/Startup.png";
 import FormImage from "../assets/Form.png";
+import diceImage from "../assets/dice.png";
+import timerImage from "../assets/timer.jpg";
 
 const projects = [
   {
     id: 1,
-    name: "Basic Form",
-    image:FormImage,
-    technologies: "React JS",
-    github: "https://github.com/Nuthalapatimanoj/Form_Project.git",
+    name: "StartupTN Clone",
+    image:StartupImage,
+    technologies: "React JS & MongoDb",
+    github: "https://github.com/Nuthalapatimanoj/Startup_Project.git",
   },
   {
     id: 2,
-    name: "Startup",
-    technologies: "React JS",
-    image: StartupImage,
-    github: "https://github.com/Nuthalapatimanoj/Startup_register_Project.git",
+    name: "Basic Details Collection Form",
+    technologies: "React JS & MongoDb",
+    image: FormImage,
+    github: "https://github.com/Nuthalapatimanoj/Form_Project.git",
   },
   {
     id: 3,
+    name: "Dice Project",
+    technologies: "HTML,CSS,JS",
+    image: diceImage,
+    github: "https://github.com/Nuthalapatimanoj/Dice_Project.git",
+  },
+  {
+    id: 4,
+    name: "Employee Detais using SQL",
+    technologies: "React JS & SQL",
+    image: timerImage,
+    github: "https://github.com/Nuthalapatimanoj/SQL_Project.git",
+  },
+  {
+    id: 5,
     name: "Portfolio",
     technologies: "React JS",
     image: PortImage,
