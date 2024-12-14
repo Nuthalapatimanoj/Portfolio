@@ -3,7 +3,7 @@ import PortImage from "../assets/Portfolio.png";
 import StartupImage from "../assets/Startup.png";
 import FormImage from "../assets/Form.png";
 import diceImage from "../assets/dice.png";
-import timerImage from "../assets/timer.jpg";
+import sqlImage from "../assets/sql.jpg";
 
 const projects = [
   {
@@ -31,7 +31,7 @@ const projects = [
     id: 4,
     name: "Employee Detais using SQL",
     technologies: "React JS & SQL",
-    image: timerImage,
+    image: sqlImage,
     github: "https://github.com/Nuthalapatimanoj/SQL_Project.git",
   },
   {
@@ -39,7 +39,7 @@ const projects = [
     name: "Portfolio",
     technologies: "React JS",
     image: PortImage,
-    github: "https://github.com/Nuthalapatimanoj",
+    
   },
 ];
 
